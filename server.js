@@ -10,13 +10,13 @@ app.get('/', function (req, res) {
 });
 
 app.get('/article-one', function (req, res) {
-  res.send("The First request will be handeled here");
+  res.send("The First request will be handled here");
 });
 app.get('/article-two', function (req, res) {
-  res.send("The Second request will be handeled here");
+  res.send("The Second request will be handled here");
 });
 app.get('/article-three', function (req, res) {
-  res.send("The Third request will be handeled here");
+  res.send("The Third request will be handled here");
 });
 
 app.get('/ui/style.css', function (req, res) {
