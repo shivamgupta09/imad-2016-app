@@ -1,7 +1,7 @@
 console.log('Loaded!');
 
 var element=document.getElementById("image");
-var moveLeft =0;
+var marginLeft =0;
 function moveRight()
 {
     var marginLeft = marginLeft +10;
