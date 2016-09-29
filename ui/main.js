@@ -10,5 +10,5 @@ function moveRight()
 element.onclick = function()
 {
     var interval = setInterval(moveRight,100);
-    element.style.marginLeft = "100px";
+    //element.style.marginLeft = "100px";
 }
