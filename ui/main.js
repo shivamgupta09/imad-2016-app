@@ -4,7 +4,7 @@ var element=document.getElementById("image");
 var marginLeft =0;
 function moveRight()
 {
-    var marginLeft = marginLeft +10;
+     marginLeft = marginLeft +10;
     image.style.marginLeft = marginLeft +"px";
 }
 element.onclick = function()
