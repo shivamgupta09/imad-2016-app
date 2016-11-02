@@ -35,7 +35,7 @@ button.onclick = function () {
             }
         }
         
-    }
+    };
         
 
     
