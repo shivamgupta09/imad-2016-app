@@ -13,7 +13,6 @@ element.onclick = function()
     //element.style.marginLeft = "100px";
 }*/
 
-var counter= 0;
 
 var button = document.getElementById("counter");
 
