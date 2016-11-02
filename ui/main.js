@@ -17,11 +17,11 @@ var counter= 0;
 
 var button = document.getElementById("counter");
 
-
+var request = new XMLHttpRequest();
 
 button.onclick = function () {
 
-    var request = new XMLHttpRequest();
+    
     
     request.onreadystatechange = function ()
     {
