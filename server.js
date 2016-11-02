@@ -41,7 +41,7 @@ var Articles ={
 },
 'article-three':{
     title:"Article Three | Shivam Gupta",
-    heading:"Article Thrid",
+    heading:"Article Three",
     date:"sep 15 2016",
     content:`
             <p>
