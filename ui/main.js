@@ -14,7 +14,7 @@ element.onclick = function()
 }*/
 var counter= 0;
 
-var button = document.getElementById("counter");
+var button = document.getElementById("count");
 
 button.onclick = function () {
 
