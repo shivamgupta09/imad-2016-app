@@ -12,6 +12,7 @@ element.onclick = function()
     var interval = setInterval(moveRight,50);
     //element.style.marginLeft = "100px";
 }
+/*
 var counter= 0;
 
 var button = document.getElementById("counter");
@@ -41,4 +42,4 @@ button.onclick = function () {
 };
 
 request.open("GET","http://shivamgupta09.imad.hasura-app.io/counter",true);
-request.send(null);
+request.send(null);*/
