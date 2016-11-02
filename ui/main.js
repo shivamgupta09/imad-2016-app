@@ -20,10 +20,9 @@ var button = document.getElementById("counter");
 
 button.onclick = function () {
 
-var span = document.getElementById("count");
-
         counter = counter+1;
-        span.innerHtml = counter.toString();
+        var span = document.getElementById("count");
+        span.innerHTML = counter.toString();
 
     
 }
