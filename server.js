@@ -40,7 +40,7 @@ var Articles ={
         </p>`
 },
 'article-three':{
-    title:"Article Third | Shivam Gupta",
+    title:"Article Three | Shivam Gupta",
     heading:"Article Thrid",
     date:"sep 15 2016",
     content:`
