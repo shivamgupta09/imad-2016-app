@@ -1,9 +1,10 @@
-body {
-    font-family: sans-serif;
-    background-color: lightblue;
-    margin-top: 75px;
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  min-width: 100%;
+  min-height: 100%;
 }
-
 .center {
     text-align: center;
 }
