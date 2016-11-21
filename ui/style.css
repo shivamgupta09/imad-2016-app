@@ -3,7 +3,9 @@ body {
     background-color: lightblue;
     margin-top: 75px;
 }
-
+ul {
+  list-style-type: none;
+}
 .center {
     text-align: center;
 }
