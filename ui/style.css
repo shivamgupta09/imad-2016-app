@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     background-color: lightblue;
     margin-top: 75px;
+    background-size:cover;
 }
 h1 {
     color : blue;
