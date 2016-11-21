@@ -3,7 +3,7 @@ body {
     background-color: lightblue;
     margin-top: 75px;
 }
-ul {
+div ul {
   list-style-type: none;
 }
 .box-set {
