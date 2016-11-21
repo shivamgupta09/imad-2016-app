@@ -10,8 +10,9 @@ h1 {
 h2 {
     color : green;
 }
-div ul {
-  list-style-type: none;
+.resize{
+   width:2px;
+   height:4px;
 }
 .box-set {
   background: #eaeaed;
