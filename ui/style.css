@@ -3,6 +3,9 @@ body {
     background-color: lightblue;
     margin-top: 75px;
 }
+h2 {
+    color : green;
+}
 div ul {
   list-style-type: none;
 }
