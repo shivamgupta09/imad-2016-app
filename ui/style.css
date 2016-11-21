@@ -12,7 +12,7 @@ ul {
 .box {
   background: #2db34a;
   float: left;
-  margin: auto;
+  margin: 100px;
   width: auto;
 }
 .center {
