@@ -50,7 +50,7 @@ position: absolute;
 .container{
     max-width: 800px;
     margin: 0 auto;
-    color: red;
+    color: #00FF00;
     font-family: sans-serif;
     padding-top: 50px;
     padding-left: 20px;
