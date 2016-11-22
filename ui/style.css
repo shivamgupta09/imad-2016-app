@@ -1,65 +1,42 @@
-body {
-    font-family: sans-serif;
-   background: url(http://smashinghub.com/wp-content/uploads/2013/02/TB-2.jpg);
-    margin-top: 5px;
-    background-size:cover;
-}
-h1 {
-    color : orange;
-}
-h2 {
-    color : green;
-}
-
-/*.box-set {
-  background: #eaeaed;
-}*/
-
-.dropdown1,.dropdown2,.dropdown3
-{
-    position: relative;
-    display: inline-block;
-}
-.dropdown-content,.dropdown-content1,.dropdown-content {
- display: none;
-    position: absolute;
-    background-color: lightblue;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    padding: 12px 16px;
-}
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
-}
-
-#bottom-right
-{
-    right: 0;
-bottom: 0;
-position: absolute;
-}
-
-.container{
-    max-width: 800px;
-    margin: 0 auto;
-    color: #00FF00;
-    font-family: sans-serif;
-    padding-top: 50px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
+<!doctype html>
+<html>
+    <head>
+        <link href="/ui/style.css" rel="stylesheet" />
+    </head>
+   
+    <body background ="http://smashinghub.com/wp-content/uploads/2013/02/TB-2.jpg">
+         <header>
+        <img src ="http://www.clipartkid.com/images/15/education-newspaper-in-color-clip-art-gallery-qJMX11-clipart.gif" height = "100" width ="100" align ="left"/>
+    </header>
+        <h1 align ="center">Articles For Everyone !!</h1>
+       <center>
+           <br/>
+ <div class ="dropdown">
+     <a href="/article-one" >Article One &nbsp;</a>
+  <span class="dropdown-content"> This is article 1</span>
+  <a href="/article-two" >Article Two &nbsp;</a>
+  <span class="dropdown-content1">This is article 2</span>
+  <a href="/article-three" >Ariticle Three &nbsp;</a>
+  <span class="dropdown-content2">This is article 3</span>
+</div>
+       <!-- <ul>
+        <li style="font-size: 2em;">Shivam Gupta</li>
+        <li style="float:left; font-size:2em;"><a href="/article-one" >Article One </a></li>
+        <li style="float:right; font-size:2em;"><a href="/article-two" >Article Two </a></li>
+        <li style="float:right; font-size:2em;"><a href="/article-three" >Ariticle Three </a></li>
+        <li style="float:right ;font-size:2em;"></li>
+        </ul> -->
+        </center>
+        <div id="bottom-right">
+     <h2 align ="left"> Shivam Gupta </h2>
+     </div>
+	<!-- <div class="footer">
+	    This button <button id ='counter'>Click Me </button>has been Clicked <span id ='count'>0</span> times.
+	</div> -->
+       <!-- <script type="text/javascript" src="/ui/main.js">
+        </script>
+        <script>
+            alert("Hi i am javascript");
+        </script> -->
+    </body>
+</html>
