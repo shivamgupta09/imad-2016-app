@@ -21,7 +21,7 @@ h2 {
     display: inline-block;
 }
 .dropdown-content,.dropdown-content1,.dropdown-content {
-  display: none;
+ display: none;
     position: absolute;
     background-color: lightblue;
     min-width: 160px;
