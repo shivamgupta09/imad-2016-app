@@ -7,12 +7,24 @@ body {
 h1 {
     color : orange;
 }
+div.box-set :hover{
+    background : white;
+    color:black;
+    border : 1px solid black;
+    height: 200px;
+}
 h2 {
     color : green;
 }
 
 .box-set {
   background: #eaeaed;
+  height: 20px;
+  width:200px;
+  margin:50px;
+  background:black;
+  color:white;
+  transition: height 3s, color 2s, background 2s , border 2s;
 }
 .box {
   background: #2db34a;
