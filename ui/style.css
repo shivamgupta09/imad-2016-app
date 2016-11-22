@@ -15,11 +15,11 @@ h2 {
   background: #eaeaed;
 }*/
 
-/*.dropdown-content, .dropdown-content1, .dropdown-content2
+.dropdown-content
 {
     position: relative;
     display: inline-block;
-}*/
+}
 .box {
   background: #2db34a;
   float: left;
