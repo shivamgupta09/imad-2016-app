@@ -19,6 +19,7 @@ h2 {
 
 .box-set {
   background: #eaeaed;
+  float: left;
   height: 20px;
   width:200px;
   margin:50px;
