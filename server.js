@@ -17,7 +17,7 @@ Ali learns and understands about various climates, seasonal changes, and animals
 Here is the brief substance of Ali's journey.
            </p>
 <p> 
-Ali finds a magic carpet at his uncle’s shop. He sits on the carpet and the carpet gives him a warm welcome. 
+Ali finds a magic carpet at his uncle's shop. He sits on the carpet and the carpet gives him a warm welcome. 
 The carpet treats him as his master and offeres to carry him across the sky.
 Ali is happy to float in air and touch the clouds. In a while he lands in a dense jungle.
 There is a light drizzle, which has made the jungle hot and humid! The carpet then flies over a desert.
