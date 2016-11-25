@@ -71,7 +71,7 @@ LISTEN THE Story...
 },
 'article-two':{
     title:"Article Two | Shivam Gupta",
-    heading:"Article Two",
+    heading:"Bollywood Dhamaka !!",
     date:"sep 10 2016",
     content:`
             <p>
