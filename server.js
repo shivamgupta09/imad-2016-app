@@ -11,7 +11,7 @@ var Articles ={
     heading:"Article One",
     date:"sep 5 2016",
     content:`
-<img src ="http://www.kidsworldfun.com/images/animated_stories/ali-and-the-magic-carpet.jpg" align ="right" width = "200px" height="200px" />
+<img src ="http://www.kidsworldfun.com/images/animated_stories/ali-and-the-magic-carpet.jpg" align ="left" width = "200px" height="200px" />
            <p>
            Ali is a little boy. Ali is a little boy.This animated short story is all about Ali's adventurous travel on a magic carpet. 
 Ali learns and understands about various climates, seasonal changes, and animals as he flies on the magic carpet. 
