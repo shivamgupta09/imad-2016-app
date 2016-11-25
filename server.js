@@ -35,10 +35,10 @@ Meanwhile, the real owners of the house returned. Who are they? How do they reac
 <p> 
  The narration of the story is beautiful.The voice-over is clearly audible.
 It is a fascinating fancy story for kids.
-Aren’t you curious to know what happens to Goldilocks? 
+Aren't you curious to know what happens to Goldilocks? 
 LISTEN THE Story....
 </p>
-<iframe width ="200px" height ="100px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_am1KX3RtNU5td1k/preview"></iframe>
+<iframe width ="220px" height ="100px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_am1KX3RtNU5td1k/preview"></iframe>
 <br/>
 <h2><u> Jack And The Beanstalk </u> </h2>
 <img src ="http://www.kidsworldfun.com/images/animated_stories/jack-and-the-beanstalk.jpg" align ="left" width = "200px" height="200px" />
@@ -63,10 +63,10 @@ There is a golden table in the castle. He also sees a golden goose laying gold e
  Jack and his mother live happily!
 The voice-over is clearly audible.It is a fascinating fancy story for kids.
 The narration of the story is beautiful. It is quite interesting and amusing animated story to watch!
-Aren’t you curious to know?
+Aren't you curious to know?
 LISTEN THE Story...
 </p>
-<iframe width ="200px" height ="100px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_T01ac3didnNJZ2M/preview"></iframe>`
+<iframe width ="220px" height ="100px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_T01ac3didnNJZ2M/preview"></iframe>`
     
 },
 'article-two':{
