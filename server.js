@@ -77,7 +77,7 @@ LISTEN THE Story...
 <h2> <u> KAUN TUJHE Full  Video  M.S. DHONI -THE UNTOLD STORY </u> </h2>
 
 <img src ="http://www.lyricsmint.com/wp-content/uploads/2016/08/kauntujhe-msd-movie.jpg" align ="left" width = "200px" height="200px" />
-            <p>
+            <p> <b> <u>Lyrics</u></b>
             Tu aata hai seene mein
 Jab jab saansein bharti hoon
 Tere dil ki galiyon se
@@ -128,7 +128,7 @@ Ho ho….
 
 <h2> <u> Bolna - Kapoor & Sons </u> </h2>
 <img src ="https://i.ytimg.com/vi/AJ-7X6cvOhY/maxresdefault.jpg" align ="left" width = "200px" height="200px" />
-<p>
+<p><b> <u>Lyrics</u></b>
 Hmm…
 
 Chhuteya na chhute mose
