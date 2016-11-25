@@ -74,11 +74,55 @@ LISTEN THE Story...
     heading:"Bollywood Dhamaka !!",
     date:"sep 10 2016",
     content:`
+<img src ="http://www.lyricsmint.com/wp-content/uploads/2016/08/kauntujhe-msd-movie.jpg" align ="left" width = "200px" height="200px" />
             <p>
-            This Is the content of my Second Article.This Is the content of my Second Article.
-            This Is the content of my Second Article.This Is the content of my Second Article.
-            This Is the content of my Second Article.
-        </p>`
+            Tu aata hai seene mein
+Jab jab saansein bharti hoon
+Tere dil ki galiyon se
+Main har roz guzarti hoon
+
+Hawaa ke jaise chalta hai tu
+Main ret jaisi udti hoon
+Kaun tujhe yun pyar karega
+Jaise main karti hoon
+
+Ho ho….
+
+Meri nazar ka safar
+Tujhpe hi aake ruke
+Kehne ko baaqi hai kya
+Kehna tha jo keh chuke
+        </p>
+<p> 
+Meri nigaahein hain
+Teri nigahon ki tujhe khabar kya be-khabar
+
+Main tujhse hi chhup chhup kar
+Teri aankhen padhti hoon
+Kaun tujhe yun pyaar karega
+Jaise main karti hoon
+
+Ho ho….
+</p>
+<p>
+
+Tu jo mujhe aa mila
+Sapne hue sirphire
+Hathon mein aate nahi
+Udte hain lamhe mere
+
+Meri hansi tujhse
+Meri khushi tujhse
+Tujhe khabar kya be-qadar
+
+Jis din tujhko na dekhun
+Pagal pagal phirti hoon
+Kaun tujhe yun pyaar karega
+Jaise main karti hoon
+
+Ho ho….
+</p>
+<iframe width ="220px" height ="150px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_X3hTdmtNUTRjZnM/preview"></iframe>`
 },
 'article-three':{
     title:"Article Three | Shivam Gupta",
