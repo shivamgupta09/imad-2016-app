@@ -38,6 +38,28 @@ The place he has reached is an Island surrounded by the sea! A tortoise greets A
 
 This animated short story video is narrated interestingly and also has subtitles. 
 Join Ali and learn about different geographical locations, animals and climates.
+</p>
+ack and the Beanstalk is a famous short story for kids. It is a folk tale and modified slightly from the longer original version.
+
+Jack lives with his mom. They are very poor. Their only means of income is the milk from their cow.
+One day, the cow stops yielding milk and they decide to sell it. 
+Jack takes the cow to the market, where he meets a magic man! The magic man offers him a few beans in exchange of the cow.
+<p>
+</p>
+ Jack happily returns home with the beans. However, his mom is not very pleased with what her son has done.
+She shouts at him for returning home without money and throws away the beans. Both Jach and his mother are not aware that the beans are magical!
+Next morning Jack and his mom are surprised to see a huge beanstalk, reaching the sky. 
+Jack rushes to the beanstalk and climbs it. He climbs and climbs. The long, long beanstalk takes him to a beautiful castle in the sky - a giant’s castle.
+The giant is fast asleep and jack sees heaps of gold coins and money spread all over the castle. 
+There is a golden table in the castle. He also sees a golden goose laying gold eggs. The rest of the story says about how Jack takes away the golden eggs and also escapes from the giant.
+<p>
+</p>
+<p>
+ Jack and his mother live happily!
+This animated short story is narrated beautifully with subscripts. 
+The voice-over is clearly audible. Visuals are crisp and colorful. 
+Emotions are pictured perfectly. You can read the story along with kids using the subscripts.
+It is a fascinating fancy story for kids.
 </p>`
     
 },
