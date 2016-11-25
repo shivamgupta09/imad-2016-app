@@ -68,6 +68,6 @@ position: absolute;
 .home{
     color:Red;
     background: yellow;
-    background-size:cover;
+    display:inline;
 }
 }
