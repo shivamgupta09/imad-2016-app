@@ -74,6 +74,8 @@ LISTEN THE Story...
     heading:"Bollywood Dhamaka !!",
     date:"sep 10 2016",
     content:`
+<h2> <u> KAUN TUJHE Full  Video  M.S. DHONI -THE UNTOLD STORY </u> </h2>
+
 <img src ="http://www.lyricsmint.com/wp-content/uploads/2016/08/kauntujhe-msd-movie.jpg" align ="left" width = "200px" height="200px" />
             <p>
             Tu aata hai seene mein
@@ -122,7 +124,60 @@ Jaise main karti hoon
 
 Ho ho….
 </p>
-<iframe width ="220px" height ="150px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_X3hTdmtNUTRjZnM/preview"></iframe>`
+<iframe width ="220px" height ="150px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_X3hTdmtNUTRjZnM/preview"></iframe>
+
+<h2> <u> Bolna - Kapoor & Sons </u> </h2>
+<img src ="https://i.ytimg.com/vi/AJ-7X6cvOhY/maxresdefault.jpg" align ="left" width = "200px" height="200px" />
+<p>
+Hmm…
+
+Chhuteya na chhute mose
+Rang tera dholna
+Ik tere baajo dooja
+Mera koi mol na
+Bolna mahi bolna
+Bolna mahi bolna
+
+Hmm… aa…
+
+Tere liye aaya main toh
+Tere sang jaana
+Dholna ve tere naal
+Jindri bitavaan
+
+Kadi naiyo chhodna
+Ishq di dor na
+Saare chhad jaayen maahi
+Tu na chhodna
+Bolna mahi bolna
+Bolna mahi bolna
+</p>
+<p>
+Hmm…
+
+Tere sang hasna main
+Tere sang rona
+Tujhme hi rehna main
+Tujhme hi khona
+
+Dil mein chhupa ke tujhe
+Dil naiyo kholna
+Marke bhi maahi tosey
+Munh na modna
+Bolna mahi bolna
+Bolna mahi bolna
+</p>
+<p>
+Chhuteya na chhoote mose
+Rang tera dholna
+Ik tere baajo dooja
+Mera koi mol na
+Bolna maahi bol na (bol na)
+Bolna maahi bol na (mahi bol na)
+
+Hmm… aa…
+</p>
+<iframe width ="220px" height ="150px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_QWpGQkhjTGNIc3M/preview"></iframe>`
 },
 'article-three':{
     title:"Article Three | Shivam Gupta",
