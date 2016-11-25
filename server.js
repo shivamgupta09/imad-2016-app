@@ -11,8 +11,10 @@ var Articles ={
     heading:"Article One",
     date:"sep 5 2016",
     content:`
+           <p>
            
-    `
+           </p>`
+    
 },
 'article-two':{
     title:"Article Two | Shivam Gupta",
