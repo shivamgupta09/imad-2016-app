@@ -12,7 +12,7 @@ var Articles ={
     date:"sep 5 2016",
     content:`
            
-    
+    `
 },
 'article-two':{
     title:"Article Two | Shivam Gupta",
