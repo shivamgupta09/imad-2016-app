@@ -112,6 +112,9 @@ function createTemplate(data)
              <link href="/ui/style.css" rel="stylesheet" />
            </head>
     <body>
+     <div id="bottom-right">
+     <h2 align ="left"> Shivam Gupta </h2>
+     </div>
         <div class ="container">
             
         <div class ="home">
