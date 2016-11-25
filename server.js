@@ -15,7 +15,30 @@ var Articles ={
            Ali is a little boy. Ali is a little boy.This animated short story is all about Ali's adventurous travel on a magic carpet. 
 Ali learns and understands about various climates, seasonal changes, and animals as he flies on the magic carpet. 
 Here is the brief substance of Ali's journey.
-           </p>`
+           </p>
+<p> 
+Ali finds a magic carpet at his uncle’s shop. He sits on the carpet and the carpet gives him a warm welcome. 
+The carpet treats him as his master and offeres to carry him across the sky.
+Ali is happy to float in air and touch the clouds. In a while he lands in a dense jungle.
+There is a light drizzle, which has made the jungle hot and humid! The carpet then flies over a desert.
+The vast expanse of the desert is so dry and extremely hot. 
+Ali meets a desert lizard.
+
+</p>
+<p> 
+ Then the carpet carries Ali to the South Pole, which is freezing cold.
+Ali sees snow all over the place and he meets a penguin.
+After enjoying the snowfall, Ali flies to a mountain on the magic carpet.
+It is very foggy and Ali sees a lion. Later, Ali reaches a forest. It is very windy, neither too damp nor too hot.
+Finally, he reaches a place where it is raining heavily. Heavy bolts of thunder and lightning shake him up.
+The place he has reached is an Island surrounded by the sea! A tortoise greets Ali and welcomes him to the island. Afraid of rain, Ali decides to go back home.
+</p>
+<p> 
+ Ali has an adventurous journey on the magic carpet.
+
+This animated short story video is narrated interestingly and also has subtitles. 
+Join Ali and learn about different geographical locations, animals and climates.
+</p>`
     
 },
 'article-two':{
