@@ -12,7 +12,7 @@ var Articles ={
     date:"sep 5 2016",
     content:`
            <p>
-           
+           Ali is a little boy.
            </p>`
     
 },
