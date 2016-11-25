@@ -11,7 +11,7 @@ var Articles ={
     heading:"Story For Kids",
     date:"sep 5 2016",
     content:`
-    <h2><u> Ali And The Magic Carpet <u> </h2>
+    <h2><u> Ali And The Magic Carpet </u> </h2>
 <img src ="http://www.kidsworldfun.com/images/animated_stories/ali-and-the-magic-carpet.jpg" align ="left" width = "200px" height="200px" />
            <p>
            Ali is a little boy. Ali is a little boy.This animated short story is all about Ali's adventurous travel on a magic carpet. 
