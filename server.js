@@ -23,11 +23,9 @@ The carpet treats him as his master and offeres to carry him across the sky.
 Ali is happy to float in air and touch the clouds. In a while he lands in a dense jungle.
 There is a light drizzle, which has made the jungle hot and humid! The carpet then flies over a desert.
 The vast expanse of the desert is so dry and extremely hot. 
-Ali meets a desert lizard.
-
 </p>
 <p> 
- Then the carpet carries Ali to the South Pole, which is freezing cold.
+Ali meets a desert lizard.Then the carpet carries Ali to the South Pole, which is freezing cold.
 Ali sees snow all over the place and he meets a penguin.
 After enjoying the snowfall, Ali flies to a mountain on the magic carpet.
 It is very foggy and Ali sees a lion. Later, Ali reaches a forest. It is very windy, neither too damp nor too hot.
