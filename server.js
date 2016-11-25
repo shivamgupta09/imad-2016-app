@@ -66,9 +66,7 @@ The voice-over is clearly audible. Visuals are crisp and colorful.
 Emotions are pictured perfectly. You can read the story along with kids using the subscripts.
 It is a fascinating fancy story for kids.
 </p>
-<audio controls>
-<source ="https://drive.google.com/open?id=0Bx_9uS0fhOt_T01ac3didnNJZ2M" type="audio/mpeg">
-</audio>`
+<iframe src="https://drive.google.com/file/d/0Bx_9uS0fhOt_T01ac3didnNJZ2M/preview" width="400" height="200"></iframe>`
     
 },
 'article-two':{
