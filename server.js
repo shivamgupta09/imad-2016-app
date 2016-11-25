@@ -12,7 +12,9 @@ var Articles ={
     date:"sep 5 2016",
     content:`
            <p>
-           Ali is a little boy.
+           Ali is a little boy.Ali is a little boy.This animated short story is all about Ali’s adventurous travel on a magic carpet. 
+Ali learns and understands about various climates, seasonal changes, and animals as he flies on the magic carpet. 
+Here is the brief substance of Ali’s journey.
            </p>`
     
 },
@@ -59,9 +61,6 @@ function createTemplate(data)
              <link href="/ui/style.css" rel="stylesheet" />
            </head>
     <body>
-    <video width = "300" height ="300" controls>
-    <source src ="http://www.dailymotion.com/video/x2fy49t_spider-man-hd-original-cartoon-classic-animation-for-kids-sub-zero-for-spidey_shortfilms" type= "video/MP4">
-        </video>
         <div class ="container">
             
         <div>
