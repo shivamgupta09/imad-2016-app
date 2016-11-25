@@ -44,6 +44,7 @@ var Articles ={
     heading:"Article Three",
     date:"sep 15 2016",
     content:`
+    
             <p>
             This Is the content of my Third Article.This Is the content of my Third Article.
             This Is the content of my Third Article.This Is the content of my Third Article.
@@ -70,6 +71,9 @@ function createTemplate(data)
              <link href="/ui/style.css" rel="stylesheet" />
            </head>
     <body>
+    <video width = "300" height ="300" controls>
+    <source src =""https://www.youtube.com/watch?v=zmR_CYJrz8o" type= "video/MP4">
+        </video>
         <div class ="container">
             
         <div>
