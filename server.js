@@ -7,8 +7,8 @@ app.use(morgan('combined'));
 
 var Articles ={
 'article-one':{
-    title:"Article One | Shivam Gupta",
-    heading:"Article One",
+    title:"Story For Kids | Shivam Gupta",
+    heading:"Story For Kids",
     date:"sep 5 2016",
     content:`
 <img src ="http://www.kidsworldfun.com/images/animated_stories/ali-and-the-magic-carpet.jpg" align ="left" width = "200px" height="200px" />
@@ -91,7 +91,7 @@ function createTemplate(data)
         <hr/>
         <h3> ${heading}</h3>
         <div>
-            ${date}
+          <h4 align ="right">  ${date} </h4>
         </div>
         <div>
         ${content}
