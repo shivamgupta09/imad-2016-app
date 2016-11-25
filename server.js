@@ -72,7 +72,7 @@ function createTemplate(data)
            </head>
     <body>
     <video width = "300" height ="300" controls>
-    <source src ="http://www.dailymotion.com/video/x2fy49t_spider-man-hd-original-cartoon-classic-animation-for-kids-sub-zero-for-spidey_shortfilms">
+    <source src ="http://www.dailymotion.com/video/x2fy49t_spider-man-hd-original-cartoon-classic-animation-for-kids-sub-zero-for-spidey_shortfilms" type= "video/MP4">
         </video>
         <div class ="container">
             
