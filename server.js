@@ -72,7 +72,7 @@ function createTemplate(data)
            </head>
     <body>
     <video width = "300" height ="300" controls>
-    <source src =""https://www.youtube.com/watch?v=zmR_CYJrz8o" type= "video/MP4">
+    <source src =""https://www.youtube.com/watch?v=zmR_CYJrz8o" type= "video/FLV">
         </video>
         <div class ="container">
             
