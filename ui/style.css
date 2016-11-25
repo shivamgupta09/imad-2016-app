@@ -91,7 +91,12 @@ a.ghost:hover, a.ghost:focus {
     -webkit-transition: color 0.3s ease-in, background-color 0.3s ease-in;
     transition: color 0.3s ease-in, background-color 0.3s ease-in;
 }
-.element1,.element2
+.element1
+{
+      display:inline-block;
+    margin-right:10px;
+}
+.element2
 {
     display:inline-block;
 }
