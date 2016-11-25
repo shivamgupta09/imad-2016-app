@@ -39,7 +39,9 @@ The place he has reached is an Island surrounded by the sea! A tortoise greets A
 This animated short story video is narrated interestingly and also has subtitles. 
 Join Ali and learn about different geographical locations, animals and climates.
 </p>
-ack and the Beanstalk is a famous short story for kids. It is a folk tale and modified slightly from the longer original version.
+<br/>
+<h2><u> Jack And The Beanstalk </u> </h2>
+Jack and the Beanstalk is a famous short story for kids. It is a folk tale and modified slightly from the longer original version.
 
 Jack lives with his mom. They are very poor. Their only means of income is the milk from their cow.
 One day, the cow stops yielding milk and they decide to sell it. 
