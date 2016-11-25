@@ -49,7 +49,7 @@ Jack takes the cow to the market, where he meets a magic man! The magic man offe
  Jack happily returns home with the beans. However, his mom is not very pleased with what her son has done.
 She shouts at him for returning home without money and throws away the beans. Both Jach and his mother are not aware that the beans are magical!
 Next morning Jack and his mom are surprised to see a huge beanstalk, reaching the sky. 
-Jack rushes to the beanstalk and climbs it. He climbs and climbs. The long, long beanstalk takes him to a beautiful castle in the sky - a giant’s castle.
+Jack rushes to the beanstalk and climbs it. He climbs and climbs. The long, long beanstalk takes him to a beautiful castle in the sky - a giant's castle.
 The giant is fast asleep and jack sees heaps of gold coins and money spread all over the castle. 
 There is a golden table in the castle. He also sees a golden goose laying gold eggs. The rest of the story says about how Jack takes away the golden eggs and also escapes from the giant.
 <p>
