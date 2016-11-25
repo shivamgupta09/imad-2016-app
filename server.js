@@ -16,11 +16,7 @@ var Articles ={
             This Is the content of my first Article.This Is the content of my first Article.
             This Is the content of my first Article.
         </p>
-        <p>
-            This Is the content of my first Article.This Is the content of my first Article.
-            This Is the content of my first Article.This Is the content of my first Article.
-            This Is the content of my first Article.
-        </p>
+        
         <p>
             This Is the content of my first Article.This Is the content of my first Article.
             This Is the content of my first Article.This Is the content of my first Article.
