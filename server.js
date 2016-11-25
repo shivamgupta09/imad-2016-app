@@ -65,9 +65,7 @@ This animated short story is narrated beautifully with subscripts.
 The voice-over is clearly audible. Visuals are crisp and colorful. 
 Emotions are pictured perfectly. You can read the story along with kids using the subscripts.
 It is a fascinating fancy story for kids.
-</p>
-<a href="javascript:void(0);" onclick="Start('/jack/If-you-give-me-your-attention.mp3')">listen mp3</a>
-`
+</p>`
     
 },
 'article-two':{
