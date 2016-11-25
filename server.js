@@ -11,34 +11,34 @@ var Articles ={
     heading:"Story For Kids",
     date:"sep 5 2016",
     content:`
-    <h2><u> Ali And The Magic Carpet </u> </h2>
-<img src ="http://www.kidsworldfun.com/images/animated_stories/ali-and-the-magic-carpet.jpg" align ="left" width = "200px" height="200px" />
+    <h2><u> Goldilocks And The Three Bears  </u> </h2>
+<img src ="http://www.kidsworldfun.com/images/animated_stories/goldilocks-and-the-three-bears.jpg" align ="left" width = "200px" height="200px" />
            <p>
-           Ali is a little boy. Ali is a little boy.This animated short story is all about Ali's adventurous travel on a magic carpet. 
-Ali learns and understands about various climates, seasonal changes, and animals as he flies on the magic carpet. 
-Here is the brief substance of Ali's journey.
+            Goldilocks and the three bears is a funny story for kids. 
+It narrates the hilarious experiences of Goldilocks in a house which belongs to a family of bears.
+Goldilocks is a charming young girl. One day she walks into woods, where she sees a beautiful house. 
+She is fascinated by the beauty of the house. As she enters the house, she sees three bowls of porridge placed on a table.
+She takes a spoonful of porridge from the first bowl, it is too hot! She tastes from the second bowl, it is too cold. 
+She tries the third bowl and it is perfect.
            </p>
 <p> 
-Ali finds a magic carpet at his uncle's shop. He sits on the carpet and the carpet gives him a warm welcome. 
-The carpet treats him as his master and offeres to carry him across the sky.
-Ali is happy to float in air and touch the clouds. In a while he lands in a dense jungle.
-There is a light drizzle, which has made the jungle hot and humid! The carpet then flies over a desert.
-The vast expanse of the desert is so dry and extremely hot. 
+ She then sees three chairs of different sizes, a big one, a medium sized one and a baby chair.
+The first two chairs are big, and uncomfortable for her to sit on. The third chair is a perfect fit.
+In her attempt to sit on the big chairs, she damages the chairs a bit.
+ 
 </p>
 <p> 
-Ali meets a desert lizard.Then the carpet carries Ali to the South Pole, which is freezing cold.
-Ali sees snow all over the place and he meets a penguin.
-After enjoying the snowfall, Ali flies to a mountain on the magic carpet.
-It is very foggy and Ali sees a lion. Later, Ali reaches a forest. It is very windy, neither too damp nor too hot.
-Finally, he reaches a place where it is raining heavily. Heavy bolts of thunder and lightning shake him up.
-The place he has reached is an Island surrounded by the sea! A tortoise greets Ali and welcomes him to the island. Afraid of rain, Ali decides to go back home.
+She feels tired. She peeks into the bedroom. There are three cots of different sizes with beds.
+The first bed is too hard for Goldilocks. The second bed is too soft. The third bed is perfect for her. She dozes off.
+Meanwhile, the real owners of the house returned. Who are they? How do they react when they see what Goldilocks has done to their home?. How does she react on seeing them? 
 </p>
 <p> 
- Ali has an adventurous journey on the magic carpet.
-
-This animated short story video is narrated interestingly and also has subtitles. 
-Join Ali and learn about different geographical locations, animals and climates.
+ The narration of the story is beautiful.The voice-over is clearly audible.
+It is a fascinating fancy story for kids.
+Aren’t you curious to know what happens to Goldilocks? 
+LISTEN THE Story....
 </p>
+<iframe width ="200px" height ="100px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_am1KX3RtNU5td1k/preview"></iframe>
 <br/>
 <h2><u> Jack And The Beanstalk </u> </h2>
 <img src ="http://www.kidsworldfun.com/images/animated_stories/jack-and-the-beanstalk.jpg" align ="left" width = "200px" height="200px" />
@@ -61,10 +61,10 @@ There is a golden table in the castle. He also sees a golden goose laying gold e
 </p>
 <p>
  Jack and his mother live happily!
-This animated short story is narrated beautifully with subscripts. 
-The voice-over is clearly audible. Visuals are crisp and colorful. 
-Emotions are pictured perfectly. You can read the story along with kids using the subscripts.
-It is a fascinating fancy story for kids.
+The voice-over is clearly audible.It is a fascinating fancy story for kids.
+The narration of the story is beautiful. It is quite interesting and amusing animated story to watch!
+Aren’t you curious to know?
+LISTEN THE Story...
 </p>
 <iframe width ="200px" height ="100px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_T01ac3didnNJZ2M/preview"></iframe>`
     
