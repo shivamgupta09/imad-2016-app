@@ -71,6 +71,7 @@ position: absolute;
     display:inline;
 }
 a.ghost {
+    background-color:#222233;
     color:red;
     border: 1px solid #f5f5f5;
     border-radius: 15px;
@@ -99,7 +100,4 @@ a.ghost:hover, a.ghost:focus {
 .element3{
     color: orange;
 }
-.button
-{
-    background-color:#222233;
-}
+
