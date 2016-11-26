@@ -101,9 +101,13 @@ a.ghost:hover, a.ghost:focus {
 .element2
 {
     display:inline-block;
-   background-color:#222233;
+   
      background-size:cover;
 }
 .element3{
     color: orange;
+}
+a span
+{
+    background-color:#222233;
 }
