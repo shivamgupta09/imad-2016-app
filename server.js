@@ -124,7 +124,7 @@ Jaise main karti hoon
 
 Ho ho….
 </p>
-<iframe width ="220px" height ="150px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_X3hTdmtNUTRjZnM/view?usp=sharing"></iframe>
+<iframe width ="220px" height ="150px" src="https://drive.google.com/open?id=0Bx_9uS0fhOt_X3hTdmtNUTRjZnM"></iframe>
 
 <h2> <u> Bolna - Kapoor & Sons </u> </h2>
 <img src ="https://i.ytimg.com/vi/AJ-7X6cvOhY/maxresdefault.jpg" align ="left" width = "200px" height="200px" />
