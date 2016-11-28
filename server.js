@@ -177,7 +177,7 @@ Bolna maahi bol na (mahi bol na)
 
 Hmm… aa…
 </p>
-<iframe width ="220px" height ="150px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_QWpGQkhjTGNIc3M/preview"></iframe>`
+<iframe width ="220px" height ="150px" src="https://drive.google.com/file/d/0Bx_9uS0fhOt_QWpGQkhjTGNIc3M/view?usp=sharing"></iframe>`
 },
 'article-three':{
     title:"Article Three | Shivam Gupta",
